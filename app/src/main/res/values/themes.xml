@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Hw7_menu_notes" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Hw7_menu_notes.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Theme without ActionBar -->
+    </style>
+
+    <style name="Theme.Hw7_menu_notes" parent="Base.Theme.Hw7_menu_notes" />
+</resources>

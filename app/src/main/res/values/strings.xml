@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw7_menu_notes</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="settings">Settings</string>
+    <string name="addNote">Add Note</string>
+</resources>
